@@ -29,7 +29,7 @@ useEffect(() => {
   return (
     <>
      <div className="container bg-gray-300 w-full h-[100vh] flex justify-center items-center">
-      <div className="bg-stone-300 flex flex-col justify-between py-4 items-start border-2 border-double border-pink-500 w-[20vw] px-7 h-[50vh]">
+      <div className="bg-stone-300 flex flex-col justify-between py-4 items-start border-2 border-double border-pink-500 w-[30vw] px-7 h-[50vh]">
         <div className="heading ml-10 ">
           <h1 className='text-2xl text-red-600 items-center pb-4 font-bold'>View Record</h1>
         </div>
